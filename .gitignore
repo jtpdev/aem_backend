@@ -1,0 +1,19 @@
+# Ignore compilation results
+target
+
+# Ignore packages
+node_modules
+
+# Ignore IDE and Operating System artifacts
+.idea
+.classpath
+.metadata
+.project
+.settings
+maven-eclipse.xml
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.jar
+.brackets.json
